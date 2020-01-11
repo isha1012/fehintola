@@ -1,0 +1,247 @@
+.joke{
+    font-weight: 900;
+    font-style: italic;
+    color: red;
+}
+h2.tittle{
+    text-align: center;
+}
+.card .card-header img{
+    width: 100%;
+    border-top-left-radius: 10%;
+border-top-right-radius: 10%;
+margin-bottom: 20px;
+}
+.card .card-header{
+    padding: 0;
+    border-top-left-radius: 10%;
+border-top-right-radius: 10%;
+}
+.card{
+border-top-left-radius: 10%;
+border-top-right-radius: 10%;
+margin-bottom: 30px;
+margin-top: 10px;
+}
+.card-body{
+    text-align: center;
+}
+.card-body h3{
+    text-transform: capitalize;
+    text-align: center;
+}
+.card-body h3 a{
+    color: black;
+    text-decoration: none;
+}
+.card-body p.position{
+    font-style: italic;
+    margin-bottom: 0;
+}
+.carousel,
+.carousel-inner {
+    max-height: 600px;
+    height: 500px;
+}
+.carousel-item img{
+    width: 100%;
+}
+.table{
+    text-transform: capitalize;
+
+}
+.carousel{
+    margin-bottom: 40px;
+}
+.nav-item a{
+    color: #FFF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.yellow{
+    color: yellow;
+}
+.blue{
+    color: blue;
+}
+.gray{
+    color: white;
+}
+.red {
+    color: red;
+} 
+.card-body p {
+    margin-bottom: 0px;
+}
+.card-body p span {
+    text-decoration: underline;
+    color: magenta;
+}
+.card{
+    transition: all 0.7s;
+}
+.card:hover {
+    background-color: blue;
+    box-shadow: 5px 5px 5px red;
+}
+.job{
+    color: aliceblue;
+    font-family: sans-serif;
+    text-transform: capitalize;
+    font-size: 14px;
+    text-align: center;
+}
+/*.image {
+    width: 255px;
+    max-height: 350px;
+
+}
+.image img{
+    width: 255px;
+    
+}*/
+
+@media (min-width: 450px){
+    .image {
+        width:100% ;
+        
+    }
+}
+.control {
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 16px;
+	line-height: 20px;
+	text-transform: capitalize;
+	display: block;
+	width: 100%;
+	padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: lighter;
+}
+.form {
+    width: 100%;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-left: 50px;
+    padding-bottom:20px;
+    margin: 10px 20px 10px 0px;
+    background-color: rgb(245, 235, 224);
+    border-radius: 5px;
+
+}
+.control label {
+	font-size: 14px;
+	line-height: 20px;
+	display: block;
+	width:100%;
+    padding-bottom:5px;
+    color: dimgray;
+}
+.control input {
+	line-height:20px;
+	width: 70%;
+}
+.submit {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 20px;
+	text-transform: capitalize;
+	color: #FFF;
+	background-color: gray;
+	width: 20%;
+	margin-right: 30%;
+	margin-left: 30%;
+	padding-top: 10px;
+	padding-bottom:10px;
+	border-radius:10px;
+}
+.last:hover{
+    background-color: blue;
+}
+.first:hover{
+    background-color: red;
+}
+.middle:hover{
+    background-color: pink;
+}
+.gender:hover{
+    background-color: maroon;
+}
+.local:hover{
+    background-color: orange;
+}
+.state:hover{
+    background-color: olivedrab;
+}
+.occupation:hover{
+    background-color: greenyellow;
+}
+.qualification:hover{
+    background-color: red;
+}
+.status:hover{
+    background-color: brown;
+}
+.nationality:hover{
+    background-color: deeppink;
+}
+.email:hover{
+    background-color: goldenrod;
+}
+.phonenumber:hover{
+    background-color: purple;
+}
+.first{
+    background-color: blueviolet;
+}
+.middle{
+    background-color: maroon;
+}
+.gender{
+    background-color: orange;
+}
+.local{
+    background-color: olivedrab;
+}
+.nationality{
+    background-color: yellow;
+}
+.occupation{
+    background-color: purple;
+}
+.qualification{
+    background-color:green;
+}
+.status{
+    background-color: magenta;
+}
+.phonenumber{
+    background-color: darksalmon;
+}
+.email{
+    background-color: darkolivegreen;
+}
